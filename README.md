@@ -6,4 +6,4 @@
 - 統整筆記並完成書上例題
 - 遇到困難上網查找資料
 ## 學習用書
-![image]()
+![image](https://github.com/wuunttt/python-self-study/blob/main/%E5%AD%B8%E7%BF%92%E7%94%A8%E6%9B%B8.png)
